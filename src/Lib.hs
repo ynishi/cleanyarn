@@ -3,7 +3,6 @@ module Lib
   ) where
 
 import           Control.Monad
-import           Data.Fixed       (Pico)
 import           Data.Time.Clock
 import           System.Directory
 
